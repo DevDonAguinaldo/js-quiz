@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./index.css">
+  <title>My Quiz App</title>
+</head>
+<body>
+  <main>
+    <div class="container">
+      <h1 id="title">My Quiz App</h1>
+      <h2 id="question">Question?</h2>
+      <div id="answer-container">
+        <button id="answer1" onclick="checkAnswer(this.id)">Answer 1</button>
+        <button id="answer2" onclick="checkAnswer(this.id)">Answer 2</button>
+        <button id="answer3" onclick="checkAnswer(this.id)">Answer 3</button>
+        <button id="answer4" onclick="checkAnswer(this.id)">Answer 4</button>
+      </div>
+      <h2 id="result"></h2>
+      <div class="button-container">
+        <button id="retry" onclick="retryQuiz()">Retry</button>
+        <button id="next" onclick="nextQuestion()">Next Question</button>
+      </div>
+    </div>
+  </main>
+  <script src="./index.js"></script>
+</body>
+</html>

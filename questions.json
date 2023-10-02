@@ -1,0 +1,102 @@
+[
+  {
+      "question": "What does \"HTML\" stand for?",
+      "options": [
+          "Hyper Text Markup Language",
+          "High Technology Modern Language",
+          "Hyperlinking Text Management Language",
+          "High Tech Media Language"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Which of these is not a Linux distribution?",
+      "options": [
+          "Ubuntu",
+          "Fedora",
+          "Solaris",
+          "Debian"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Who is known as the father of the computer?",
+      "options": [
+          "Alan Turing",
+          "Steve Jobs",
+          "Charles Babbage",
+          "Bill Gates"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In the Marvel Universe, who is the arch-enemy of the Fantastic Four?",
+      "options": [
+          "Loki",
+          "Doctor Doom",
+          "Magneto",
+          "Thanos"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Which programming language is known as the \"mother of all languages\"?",
+      "options": [
+          "C++",
+          "Java",
+          "Fortran",
+          "COBOL"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In \"Star Wars\", what is the name of Han Solo's ship?",
+      "options": [
+          "Star Destroyer",
+          "Death Star",
+          "Millennium Falcon",
+          "X-Wing"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Which of these is not a database management system?",
+      "options": [
+          "MySQL",
+          "Oracle",
+          "Photoshop",
+          "PostgreSQL"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Who wrote \"A Song of Ice and Fire\", which was adapted into the TV series \"Game of Thrones\"?",
+      "options": [
+          "J.K. Rowling",
+          "Stephen King",
+          "J.R.R. Tolkien",
+          "George R.R. Martin"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What does the \"P\" in \"PHP\" stand for?",
+      "options": [
+          "Program",
+          "Preprocessor",
+          "Protocol",
+          "Python"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "In the world of video games, which character is known for saying \"It's-a me, Mario!\"?",
+      "options": [
+          "Sonic",
+          "Luigi",
+          "Mario",
+          "Link"
+      ],
+      "correctAnswer": 2
+  }
+]
